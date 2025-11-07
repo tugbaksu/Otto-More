@@ -1,4 +1,4 @@
 # Otto-More
 Staj kapsamında yaptığım gizliliği süren bir mobil oyundur.
 
-![]("C:\Users\tugba\OneDrive\Resimler\Ekran Görüntüleri\Ekran görüntüsü 2025-11-07 161545.png")
+![](file:///C:/Users/tugba/OneDrive/Resimler/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-07%20161545.png)
